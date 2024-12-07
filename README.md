@@ -1,5 +1,8 @@
 # Skin-Cancer-Image-Classification
 Research Proposal Project for ANN course
+Link to the Dataset:https://www.kaggle.com/code/naim99/image-classification-clustering-step-by-step?scriptVersionId=48171200
+![image](https://github.com/user-attachments/assets/c7b40a5a-8c75-4fcd-be59-dd83b05d0917)
+
 
 This project focuses on the classification of skin cancer images using Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The dataset used for this project is the ISIC Dataset, organized into binary classification categories: benign and malignant.
 
